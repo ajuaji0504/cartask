@@ -46,4 +46,4 @@ class Car {
   }
 }
   newcar = new Car();
-  newcar.start();
+  newcar.stop();
